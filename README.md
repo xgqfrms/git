@@ -2,6 +2,12 @@
 
 
 ```sh
+# help
+$ git --help
+$ git help -a
+$ git help -g
+
+
 # pull
 $ git pull
 
@@ -11,7 +17,7 @@ $ git status
 # add
 $ git add .
 $ git add -A
-$ git add -all
+$ git add --all
 
 # commit
 $ git commit -A m"commit comments information"
