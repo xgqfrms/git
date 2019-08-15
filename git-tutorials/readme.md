@@ -12,6 +12,8 @@ $ git help -g
 
 ```
 
+## git --help
+
 ```sh
 
 D:\github\git>git --help
@@ -23,6 +25,37 @@ usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
 
 These are common Git commands used in various situations:
 ```
+
+## git help -g
+
+```sh
+D:\github\git>git help -g
+
+The common Git guides are:
+   attributes          Defining attributes per path
+   cli                 Git command-line interface and conventions
+   core-tutorial       A Git core tutorial for developers
+   cvs-migration       Git for CVS users
+   diffcore            Tweaking diff output
+   everyday            A useful minimum set of commands for Everyday Git
+   glossary            A Git Glossary
+   hooks               Hooks used by Git
+   ignore              Specifies intentionally untracked files to ignore
+   modules             Defining submodule properties
+   namespaces          Git namespaces
+   repository-layout   Git Repository Layout
+   revisions           Specifying revisions and ranges for Git
+   tutorial            A tutorial introduction to Git
+   tutorial-2          A tutorial introduction to Git: part two
+   workflows           An overview of recommended workflows with Git
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+
+```
+
+## git help -a
 
 ```sh
 
