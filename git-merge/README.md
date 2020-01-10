@@ -2,7 +2,7 @@
 
 > you can follow below steps
 
-## 1. merge origin/master branch to feature branch
+## 1. merge `origin/master` branch to `feature` branch
 
 ```sh
 # step1: change branch to master, and pull to update all commits
@@ -17,7 +17,7 @@ $ git pull
 $ git merge master
 ```
 
-## 2. merge feature branch to origin/master branch
+## 2. merge `feature` branch to `origin/master` branch
 
 ```sh
 $ git checkout master
