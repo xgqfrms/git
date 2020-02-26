@@ -16,3 +16,7 @@ https://help.github.com/cn/github/using-git
 
 https://support.github.com/contact?form%5Bsubject%5D=translation+issue+on+help.github.com
 
+## community
+
+https://github.community/
+
