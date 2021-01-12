@@ -77,6 +77,12 @@ Commit contents options
 ```
 
 
+## git alias All In One
+
+
+
+https://gist.github.com/xgqfrms/b9712215312177d05c9c6372eb2ec487
+
 
 
 
