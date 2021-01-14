@@ -1,4 +1,7 @@
-# `git checkout -b feature` xxx & `git push --set-upstream origin` xxx
+# git checkout & git push
+
+
+> `git checkout -b feature` xxx & `git push --set-upstream origin` xxx
 
 
 ```sh
