@@ -28,3 +28,21 @@ https://github.com/angular/angular.js/commits/master
 
 
 ![image](https://user-images.githubusercontent.com/7291672/113397922-61e7e480-93d0-11eb-90a8-d71f5d6822be.png)
+
+
+
+https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines
+
+
+https://docs.angularjs.org/guide
+
+## git & Angular git commit 规范
+
+
+https://www.cnblogs.com/xgqfrms/p/11526948.html
+
+
+
+
+
+
