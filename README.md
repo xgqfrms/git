@@ -321,3 +321,13 @@ xgqfrms@W10P-xgqfrms MINGW64 /e/Angular-2018 (master)
 
 
 ```
+
+
+## `.gitignore` file generator
+
+
+https://www.toptal.com/developers/gitignore/
+
+https://stackoverflow.com/questions/11968531/what-to-gitignore-from-the-idea-folder/39568390#39568390
+
+
